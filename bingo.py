@@ -119,7 +119,7 @@ while x<num_rows:
 
 print('making bingo card')
 
-txt_file = ['ICAS INTERNAL SEMINAR BINGO']
+txt_file = ['BINGO']
 for k in layout:
     txt_file.append(border)
     txt_file.append(k)
