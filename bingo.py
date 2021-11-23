@@ -4,9 +4,9 @@ Created on Mon Nov 22 15:03:32 2021
 
 @author: never you mind
 """
-#################################################
-#usage python bingo.py num_rows num_cols item_file.xlsx output.txt#
-#################################################
+#####################################################################
+##usage python bingo.py num_rows num_cols item_file.xlsx output.txt##
+#####################################################################
 
 print('begin')
 
